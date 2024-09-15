@@ -51,7 +51,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <GlobalDataProvider>
-          <div className="max-w-screen-2xl">{children}</div>
+          <div className="max-w-screen-2xl mx-auto">{children}</div>
         </GlobalDataProvider>
       </body>
     </html>

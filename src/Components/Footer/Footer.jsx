@@ -8,7 +8,7 @@ import Pinerest from "../../public/images/pinerest.svg";
 
 function Footer() {
   return (
-    <footer className="bg-[#000000] py-8">
+    <footer className="bg-[#000000] py-8 w-full">
       <div className="container mx-auto px-4 md:px-8">
         <div className="flex flex-col md:flex-row justify-between">
           <div className="flex-1 mb-4 md:mb-0 text-[#ffffff] justify-center ">
