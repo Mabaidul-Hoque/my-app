@@ -67,7 +67,7 @@ const FAQs = () => {
                   idx < faqs.length - 1 ? "border-b pb-4" : "pb-4"
                 }`}
               >
-                <div className="flex justify-start items-start gap-4 ">
+                <div className="flex justify-start items-center gap-4 ">
                   {openIndexes.includes(idx) ? (
                     <AiOutlineMinus
                       size={24}
