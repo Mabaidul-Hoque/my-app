@@ -14,8 +14,8 @@ const HeroImageSection = () => {
       />
       <div className="absolute bottom-4 md:bottom-5 lg:bottom-10 px-4 md:px-8 lg:px-16 text-white text-center w-full flex justify-center items-center flex-col z-10">
         <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold">
-          The World's First <span className="text-[#F7A293]">Unvaccinated</span>{" "}
-          Platform
+          The World&apos;s First{" "}
+          <span className="text-[#F7A293]">Unvaccinated</span> Platform
         </h1>
         <p className="text-xs  md:text-base lg:text-lg mt-2">
           Love, Friendship and Community connections since 2021
